@@ -1,9 +1,9 @@
 {
-  "name": "appsupply-mysql-mcp",
+  "name": "mysql-mcp",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Servidor MCP somente leitura para os bancos MySQL da AppSupply.",
+  "description": "Servidor MCP somente leitura para os bancos MySQL.",
   "main": "dist/server.js",
   "scripts": {
     "build": "tsc --project tsconfig.json",
