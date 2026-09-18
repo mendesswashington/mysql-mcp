@@ -1,4 +1,4 @@
-# AppSupply MySQL MCP
+#MySQL MCP
 
 Servidor MCP local e somente leitura para inspecionar schemas MySQL da AppSupply pelo Codex.
 
